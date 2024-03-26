@@ -6,7 +6,7 @@ This github repo is being used for session/speaker submissions allowing attendee
 
 If you have an idea for a session or are a speaker and want to present at the conference, you have two options.
 
-1. **Easy Method**: (github account not required!) Submit your idea on our [jotform](https://form.jotform.com/240856275763062) (note all submissions will initallly show up as an [issue](https://github.com/selfpublish/ccwc/issues)), before I review and move them to the official list of possible sessions.
+1. **Easy Method**: (github account **not** required!) Submit your idea on our [jotform](https://form.jotform.com/240856275763062) (note all submissions will initallly show up as an [issue](https://github.com/selfpublish/ccwc/issues)), before I review and move them to the official list of possible sessions.
    
 2. **Github Method**: (github account required) Post it directly to the [Github Discussion](https://github.com/selfpublish/ccwc/discussions/categories/suggestions-for-topics-speakers) board.
 
