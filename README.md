@@ -6,9 +6,9 @@ This github repo is being used for session/speaker submissions allowing attendee
 
 If you have an idea for a session or are a speaker and want to present at the conference, you have two options.
 
-1. Easy: Submit your idea on our [jotform](https://form.jotform.com/240856275763062) (note all submissions will show up [here](https://github.com/selfpublish/ccwc/issues/9)).
+1. **Easy Method**: Submit your idea on our [jotform](https://form.jotform.com/240856275763062) (note all submissions will show up [here](https://github.com/selfpublish/ccwc/issues/9)).
    
-2. Post it directly to the [Github Dicussion](https://github.com/selfpublish/ccwc/discussions/categories/suggestions-for-topics-speakers) board.
+2. **Preferred Method**: Post it directly to the [Github Discussion](https://github.com/selfpublish/ccwc/discussions/categories/suggestions-for-topics-speakers) board.
 
 Each week, I'll consolidate submissions at the [CCWC40 Discussion](https://github.com/selfpublish/ccwc/discussions/categories/ccwc40) board where attendees will be invited to vote on the sessions they'd like to attend.
 
