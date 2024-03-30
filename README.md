@@ -8,7 +8,7 @@ If you have an idea for a session or are a speaker and want to present at the co
 
 1. **Easy Method**: (github account **not** required!) Submit your idea on our [jotform](https://form.jotform.com/240856275763062) (note all submissions will initallly show up as an [issue](https://github.com/selfpublish/ccwc/issues)), before I review and move them to the official list of possible sessions.
    
-2. **Github Method**: (github account required) Post it directly to the [Github Discussion](https://github.com/selfpublish/ccwc/discussions/categories/suggestions-for-topics-speakers) board.
+2. **Github Method** (preferred): (github account required) Post it directly to the [Github Discussion](https://github.com/selfpublish/ccwc/discussions/categories/suggestions-for-topics-speakers) board.
 
 Reguarily, I'll consolidate submissions at the [CCWC40 Discussion](https://github.com/selfpublish/ccwc/discussions/categories/ccwc40) board where attendees will be invited to vote on the sessions they'd like to attend.
 
