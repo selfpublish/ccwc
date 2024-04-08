@@ -12,6 +12,6 @@ If you have an idea for a session or are a speaker and want to present at the co
    
 2. **Github Method** (preferred): (github account required) Post it directly to the [Suggestions for Topics/Speakers Discussion](https://github.com/selfpublish/ccwc/discussions/categories/suggestions-for-topics-speakers) board.
 
-> You can find the latest updates on the conference in the [CCWC40 Discussion](https://github.com/selfpublish/ccwc/discussions/categories/ccwc40) board, and if you haven't already added yourself our mailing list, you should do so [here](http://eepurl.com/hIxxkL) - look for 'Subscribe.'
+> You can find the latest updates on the conference in the [CCWC40 Discussion](https://github.com/selfpublish/ccwc/discussions/categories/ccwc40) board, and if you haven't already added yourself our mailing list, you should do so [here](http://eepurl.com/hIxxkL).
 
 Want more info on how to be involved in this year's conference? You can learn more at https://www.cuesta.edu/communityprograms/writers-conference/
